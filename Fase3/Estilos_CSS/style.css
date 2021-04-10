@@ -3,17 +3,18 @@ nav{
 }
 :-webkit-any(article, aside, nav, section) h1{
     font-size: 1.0cm;
-    color: white; background-color:maroon;
+    color: white; background-color:chocolate;
 }
 h1{
     text-align: center;
-    color:white; background-color: yellow;
+    color:blue; background-color:white;
 }
 h2 {
-    color:darkblue; background-color:lemonchiffon;
+    color:darkblue; background-color:orange;
 }
 h3 {
-    color: darkcyan; background-color:sandybrown;
+    color:black; background-color:cyan;
+    text-align: center;
 }
 h5 {
     color: maroon;
@@ -23,7 +24,7 @@ section{
     max-width: 70%;
     margin: 0%;
     padding: 1%;
-    background-color:azure;
+    background-color:white;
 }
 aside{
     float: left;
@@ -51,7 +52,7 @@ footer{
     align-items: center;
     justify-content: center;
     color: #fff;
-    background:orange;
+    background:steelblue;
     height: 50px;
     text-decoration: none;
 }
